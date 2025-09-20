@@ -1,4 +1,6 @@
-/* Removed Tailwind - Using custom CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* ED-GEN Design System - Education for Generations */
 
